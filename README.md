@@ -1,7 +1,7 @@
-# babel-plugin-slides
+# [BrooklynJS](http://brooklynjs.com/) #32 (June 2016)
 
-- for BrooklynJS #32 and NYCHTML5
+> Let's Make Some Babel Plugins
 
-Open http://henryzoo.com/babel-plugin-slides
+## Slides
 
-(Never used keynote, so I found out you could export to html)
+[![](http://i.imgur.com/3uZ8VSF.png)](http://henryzoo.com/babel-plugin-slides)
